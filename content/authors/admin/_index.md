@@ -6,7 +6,7 @@ title: Elise van Wonderen
 superuser: true
 
 # Role/position/tagline
-role: Linguist & Statistician
+role: Applied Linguist & Statistician
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,18 +26,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc Methodology & Statistics
+  - course: Research Master Methodology and Statistics for the Behavioural, Biomedical and Social Sciences
     institution: Utrecht University
     year: 2022
-  - course: MA Linguistics (research)
+  - course: Research Master Linguistics
     institution: Radboud University
-    year: 2020
-  - course: MA Multilingualism & Language Acquisition
+    year: 2020 (Cum Laude)
+  - course: Master Multilingualism and Language Acquisition
     institution: Utrecht University
     year: 2017
-  - course: BA Latin-American Studies
+  - course: Bachelor Latin-American Studies
     institution: Leiden University
-    year: 2016
+    year: 2016 (Cum Laude)
     
 
 # Social/Academic Networking
