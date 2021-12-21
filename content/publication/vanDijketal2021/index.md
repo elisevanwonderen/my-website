@@ -2,7 +2,7 @@
 title: "Cross-linguistic influence in simultaneous and early sequential bilingual children: a meta-analysis"
 authors:
 - C. N. van Dijk
-- *E. van Wonderen*
+- E. van Wonderen
 - E. Koutamanis
 - G. J. Kootstra
 - T. Dijkstra

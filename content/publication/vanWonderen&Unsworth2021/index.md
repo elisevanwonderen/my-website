@@ -1,7 +1,7 @@
 ---
 title: "Testing the validity of the Cross-Linguistic Lexical Task as a measure of language proficiency in bilingual children"
 authors:
-- *E. van Wonderen*
+- E. van Wonderen
 - S. Unsworth
 date: "2021-11-01T00:00:00Z"
 doi: "https://doi.org/10.1017/S030500092000063X"
