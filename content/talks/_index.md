@@ -1,5 +1,5 @@
 ---
-title: Recent & upcoming talks
+title: ''
 type: page
 cms_exclude: true
 
@@ -11,17 +11,20 @@ header:
 
 # Oral presentations
 
-van Wonderen, E., & Unsworth, S. (2019, June 27). Assessing the validity of the Dutch Cross-linguistic Lexical Task (CLT). Paper presented at the 12th International Symposium on Bilingualism, Alberta, Canada. 
+E. van Wonderen, S. Unsworth (2019, June 27). *Assessing the validity of the Dutch Cross-linguistic Lexical Task.* Alberta, Canada: 12th International Symposium on Bilingualism.
 
-van Wonderen, E., & Unsworth, S. (2019, April 17). Testing the validity of the Cross-Linguistic Lexical Task as a measure of bilingual proficiency. Paper presented at the workshop on Bilingual Language Development, Nijmegen, the Netherlands.  
+E. van Wonderen, S. Unsworth (2019, April 17). *Testing the validity of the Cross-Linguistic Lexical Task as a measure of bilingual proficiency.* Nijmegen, the Netherlands: Bilingual Language Development workshop.  
 
-van Wonderen, E., & Unsworth, S. (2018, June 26). Using the Cross-linguistic Lexical Task (CLT) to assess absolute and relative proficiency in Spanish-Dutch bilingual children. Paper presented at the Child Language Symposium, Reading, UK.
+E. van Wonderen, S. Unsworth (2018, June 26). *Using the Cross-linguistic Lexical Task to assess absolute and relative proficiency in Spanish-Dutch bilingual children.* Reading, UK: Child Language Symposium.
 
-van Wonderen, E. (2018, April 21). Input, output and number of speakers: Assessing the influence of experiential variables on language proficiency in Spanish-Dutch bilingual children. Paper presented at the 28th Anéla/Viot Juniorendag, Tilburg, the Netherlands. 
+E. van Wonderen (2018, April 21). *Input, output and number of speakers: Assessing the influence of experiential variables on language proficiency in Spanish-Dutch bilingual children.* Tilburg, the Netherlands: 28th Anéla/Viot Juniorendag.
+
+
+<br>
 
 
 # Poster presentations
 
-van Wonderen, E., Hubers, F., & Dijkstra, T. (2019, April 9). Processing single words in idiomatic expressions: Anticipation of word forms and word meanings? Poster presented at the Language in Interaction symposium, Nijmegen, the Netherlands.
+E. van Wonderen, F. Hubers, T. Dijkstra. (2019, April 9). *Processing single words in idiomatic expressions: Anticipation of word forms and word meanings?* Nijmegen, the Netherlands: Language in Interaction symposium.
 
-van Wonderen, E., & Unsworth, S. (2017, October 7). Using Cross-linguistic Lexical Tasks to compare individual variation in language proficiency across and within bilingual children. Poster presented at the Many Paths to Language workshop, Nijmegen, the Netherlands. 
+E. van Wonderen, S. Unsworth (2017, October 7). *Using Cross-linguistic Lexical Tasks to compare individual variation in language proficiency across and within bilingual children.* Nijmegen, the Netherlands: Many Paths to Language workshop. 
