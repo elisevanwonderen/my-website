@@ -31,13 +31,13 @@ education:
     year: 2022
   - course: Research Master Linguistics
     institution: Radboud University
-    year: 2020 (Cum Laude)
+    year: 2020 
   - course: Master Multilingualism and Language Acquisition
     institution: Utrecht University
     year: 2017
   - course: Bachelor Latin-American Studies
     institution: Leiden University
-    year: 2016 (Cum Laude)
+    year: 2016 
     
 
 # Social/Academic Networking
