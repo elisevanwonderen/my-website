@@ -6,7 +6,7 @@ title: Elise van Wonderen
 superuser: true
 
 # Role/position/tagline
-role: Applied Linguist & Statistician
+role: Applied Linguist & Data Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -61,9 +61,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,4 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-My academic interests lie primarily in conducting psycholinguistic experiments to study bilingual first language acquisition. I am also interested in increasing the robustness of results by means of multi-method studies and research synthesis, including meta-analysis and Bayesian evidence synthesis. 
+I am both interested in theoretical topics within bilingualism, psycholinguistics and language acquisition, as well as in developments within the field of applied statistics and data analysis. More specifically, I like conducting psycholinguistic experiments to study bilingual first language acquisition, and I am enthusiastic about increasing the robustness of results by means of multi-method studies and research synthesis. 
+
+Currently I am writing my master thesis under the supervision of [Irene Klugkist](https://www.uu.nl/medewerkers/iklugkist) in which we compare the performance of two research synthesis techniques, namely meta-analysis and Bayesian evidence synthesis. We do this by running simulations and by applying both methods to experimental datasets on cross-linguistic influence in bilingual children.
