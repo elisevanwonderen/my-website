@@ -20,14 +20,14 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: e.vanwonderen@students.uu.nl
+email: e.vanwonderen@uva.nl
 # phone: 888 888 88 88
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+address:
+  street: Spuistraat 134
+  city: Amsterdam
+  # region: CA
+  # postcode: '94305'
+  country: the Netherlands
 #   country_code: US
 # coordinates:
 #   latitude: '37.4275'

@@ -6,11 +6,11 @@ title: Elise van Wonderen
 superuser: true
 
 # Role/position/tagline
-role: Applied Linguist & Data Analyst
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Utrecht University
+- name: University of Amsterdam
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -20,24 +20,26 @@ interests:
 - Bilingualism
 - Psycholinguistics
 - Language Acquisition
-- Evidence Synthesis
-- Bayesian Statistics
+- Statistics
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD candidate in Bilingualism
+    institution: University of Amsterdam
+    year: 2022-present
   - course: Research Master Methodology and Statistics for the Behavioural, Biomedical and Social Sciences
     institution: Utrecht University
-    year: 2022
+    year: 2020-2022
   - course: Research Master Linguistics
     institution: Radboud University
-    year: 2020 
+    year: 2017-2020 
   - course: Master Multilingualism and Language Acquisition
     institution: Utrecht University
-    year: 2017
+    year: 2016-2017
   - course: Bachelor Latin-American Studies
     institution: Leiden University
-    year: 2016 
+    year: 2013-2016 
     
 
 # Social/Academic Networking
@@ -61,9 +63,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,4 +76,4 @@ highlight_name: true
 
 I am both interested in theoretical topics within bilingualism, psycholinguistics and language acquisition, as well as in developments within the field of applied statistics and data analysis. More specifically, I like conducting psycholinguistic experiments to study bilingual first language acquisition, and I am enthusiastic about increasing the robustness of results by means of multi-method studies and research synthesis. 
 
-Currently I am writing my master thesis under the supervision of [Irene Klugkist](https://www.uu.nl/medewerkers/iklugkist) in which we compare the performance of two research synthesis techniques, namely meta-analysis and Bayesian evidence synthesis. We do this by running simulations and by applying both methods to experimental datasets on cross-linguistic influence in bilingual children.
+Currently, I am conducting my PhD research within the [MultiCUE project](https://www.multicue.nl/). My PhD research is about multilingual children's pragmatic communication abilities.
