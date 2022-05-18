@@ -25,10 +25,8 @@ email: e.vanwonderen@uva.nl
 address:
   street: Spuistraat 134
   city: Amsterdam
-  # region: CA
-  # postcode: '94305'
+  postcode: '1012 VB'
   country: the Netherlands
-#   country_code: US
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
