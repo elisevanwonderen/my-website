@@ -27,7 +27,7 @@ address:
   city: Amsterdam
   # region: CA
   # postcode: '94305'
-  # country: the Netherlands
+  country: the Netherlands
 #   country_code: US
 # coordinates:
 #   latitude: '37.4275'

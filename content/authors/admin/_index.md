@@ -25,21 +25,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD candidate in Bilingualism
-    institution: University of Amsterdam
-    year: 2022-present
   - course: Research Master Methodology and Statistics for the Behavioural, Biomedical and Social Sciences
     institution: Utrecht University
-    year: 2020-2022
+    year: 2022
   - course: Research Master Linguistics
     institution: Radboud University
-    year: 2017-2020 
+    year: 2020 
   - course: Master Multilingualism and Language Acquisition
     institution: Utrecht University
-    year: 2016-2017
+    year: 2017
   - course: Bachelor Latin-American Studies
     institution: Leiden University
-    year: 2013-2016 
+    year: 2016 
     
 
 # Social/Academic Networking
