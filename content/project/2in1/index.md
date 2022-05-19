@@ -33,7 +33,7 @@ slides: ""
 
 The [2in1 project](https://www.ru.nl/cls/our-research/research-groups/cognitive-developmental-aspects-multilingualism/2in1-project-nl/) is a research project of the Radboud University Nijmegen that ran from 2016 to 2022. The goal of the project was to investigate how and under which circumstances crosslinguistic influence occurs during bilingual language acquisition.
 
-Within this project I was involved with developing the Dutch version of the Crosslinguistic Lexical Task, a vocabulary task designed to yield comparable versions in many different languages in order to compare language proficiency both within and across bilingual children.
+Within this project I was involved with developing the Dutch version of the Cross-linguistic Lexical Task, a vocabulary task designed to yield comparable versions in many different languages in order to compare language proficiency both within and across bilingual children.
 
 In addition, I contributed to a meta-analysis about crosslinguistic influence in simultaneous and early sequential bilingual children. Currently, we are working on a web application for this meta-analysis that will allow researchers to add new studies and to conduct additional analyses on different subsets of the data.
 

@@ -14,10 +14,4 @@ view: 2
 header:
   caption: ""
   image: ""
-
-content:
-  sort_by: 'Title'
-  sort_ascending: true
-
-  
 ---
