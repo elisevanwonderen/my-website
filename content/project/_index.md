@@ -15,6 +15,4 @@ header:
   caption: ""
   image: ""
   
-sort_by: 'Date'
-sort_ascending: false
 ---
