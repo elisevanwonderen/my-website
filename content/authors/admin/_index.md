@@ -50,9 +50,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.nl/citations?user=XWHsCoIAAAAJ&hl=nl&inst=7240083048524121927
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Elise-Wonderen
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4475-0896
@@ -62,6 +59,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/elise-van-wonderen-7710b7133/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Elise-Wonderen
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
