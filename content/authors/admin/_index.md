@@ -20,7 +20,7 @@ interests:
 - Bilingualism
 - Psycholinguistics
 - Language Acquisition
-- Statistics
+- Research Synthesis
 
 # Education to show in About widget
 education:
@@ -50,6 +50,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.nl/citations?user=XWHsCoIAAAAJ&hl=nl&inst=7240083048524121927
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Elise-Wonderen
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4475-0896
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
@@ -73,4 +79,4 @@ highlight_name: true
 
 I am both interested in theoretical topics within bilingualism, psycholinguistics and language acquisition, as well as in developments within the field of applied statistics and data analysis. More specifically, I like conducting psycholinguistic experiments to study bilingual first language acquisition, and I am enthusiastic about increasing the robustness of results by means of multi-method studies and research synthesis. 
 
-Currently, I am conducting my PhD research within the [MultiCUE project](https://www.multicue.nl/). My PhD research is about multilingual children's pragmatic communication abilities.
+Currently, I am conducting my PhD research within the [MultiCUE project](https://www.multicue.nl/). My PhD research focuses on the pragmatic communication abilities of multilingual children. More specifically, I investigate whether these abilities differ from those of monolingual peers, and what the mechanisms are that underlie such differences.
