@@ -14,4 +14,7 @@ view: 2
 header:
   caption: ""
   image: ""
+  
+sort_by: 'Date'
+sort_ascending: false
 ---
