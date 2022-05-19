@@ -1,5 +1,5 @@
 ---
-title: 2022-2027 | MultiCUE
+title: 2022-2027  |  MultiCUE
 summary: Pragmatic abilities in multilingual children
 # tags:
 # - Deep Learning

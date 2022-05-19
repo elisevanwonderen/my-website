@@ -1,5 +1,5 @@
 ---
-title: 2021-2022 | Research Synthesis
+title: 2021-2022  |  Research Synthesis
 summary: Comparing meta-analysis to Bayesian evidence synthesis
 # tags:
 # - Deep Learning
