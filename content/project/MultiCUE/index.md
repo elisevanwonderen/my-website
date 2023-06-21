@@ -1,5 +1,5 @@
 ---
-title: 2022-2027  |  MultiCUE
+title: 2022-2026  |  MultiCUE
 summary: Pragmatic abilities in multilingual children
 # tags:
 # - Deep Learning
@@ -31,7 +31,7 @@ url_video: ""
 slides: ""
 ---
 
-MultiCUE is a research project of the University of Amsterdam that runs from 2022 to 2027. The goal of the project is to investigate pragmatic communication abilities in multilingual children, including (i) children's use of communicative cues such as gestures and eye gaze, (ii) children's ability to adapt their language and non-verbal communication to the listener and social context, and (iii) children's understanding of non-literal language such as irony. For more information, visit [our website](https://www.multicue.nl/)
+MultiCUE is a research project of the University of Amsterdam that runs from 2022 to 2026. The goal of the project is to investigate pragmatic communication abilities in multilingual children, including (i) children's use of communicative cues such as gestures and eye gaze, (ii) children's ability to adapt their language and non-verbal communication to the listener and social context, and (iii) children's understanding of non-literal language such as irony. For more information, visit [our website](https://www.multicue.nl/)
 
 
 
